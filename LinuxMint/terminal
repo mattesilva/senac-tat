@@ -35,6 +35,7 @@ echo = Imprimi na tela
 touch = mudar arquivos
 -------------------------------------------------
 > = Redireciona
+>> = Adiciona em conjunto anexando
 -------------------------------------------------
 mkdir = cria um diretório
 man mkdir = Manual 
@@ -46,3 +47,31 @@ d (Diretório)
 / = Root (Raiz)
 l = Atalhos
 d-t = Perigo
+-------------------------------------------------
+cat = mostra o que tem dentro do arquivo
+cat -n = mostra o número de linhas
+-------------------------------------------------
+tac = inverte a ordem de linhas
+
+| = direciona junto com outro comando
+-------------------------------------------------
+tail = lê as 10 últimas linhas dos arquivos
+tail -n(número) = mostra a quantidade de linhas que você pediu
+
+head = lê as 10 primeiras linhas dos arquivos
+head -n(número) = mostra a quantidade de linhas que você pediu
+
+less = visualiza os textos
+-------------------------------------------------
+cp = copia os arquivos
+cp -v = copia para o arquivo indicado
+
+* = copiar tudo
+-------------------------------------------------
+mv = mover  renomear remover
+mv -v = ver o que está acontecendo
+
+rm = remover
+rm -v = mostra a que está acontecendo
+rm -Rv = força a apagar o diretorio
+rm -Rfv = força a apagar o diretorio mesmo estando aberto
