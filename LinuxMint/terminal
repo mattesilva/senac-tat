@@ -21,6 +21,7 @@ Git clone = Clonar repositórios
 git config = configurar git local
 git config --global user.name (Nome)
 git config --global user.email (Email) 
+git pull = atuliza o git
 -------------------------------------------------
 cd = Mudar de diretório
 cd ~ = Voltar para home
