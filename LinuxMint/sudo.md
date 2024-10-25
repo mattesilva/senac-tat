@@ -14,3 +14,4 @@ Comando Linux
   sudo apt install (Instalar programas)
   sudo apt install git vim kolourpaint 
   sudo poweroff (desliga o computador)
+  sudo dpkg (instalar por linha de comando)
