@@ -1,0 +1,327 @@
+    1  sources.list
+    2  source.list
+    3  apt sources.list
+    4  gsj
+    5  afsf
+    6  gsj
+    7  sudo apt install
+    8  sudo
+    9  sudo -i
+   10  sudo apt up
+   11  sudo apt update
+   12  sudo apt upgrade
+   13  sudo apt full-upgrade 
+   14  sudo apt dist-upgrade 
+   15  sudo apt autoremove 
+   16  sudo apt autoclean 
+   17  history 
+   18  sudo reboot
+   19  sudo apt update 
+   20  sudo apt install 
+   21  sudo apt install git vim kolourpaint 
+   22  history 
+   23  sudo poweroff
+   24  apt
+   25  apt version
+   26  apt update
+   27  apt upgrade
+   28  pwd
+   29  ls
+   30  ls -
+   31  ls-
+   32  ls -
+   33  ls -l
+   34  ls -lh
+   35  ls -lha
+   36  cd
+   37  cd /
+   38  pwd
+   39  ls
+   40  ls -lh
+   41  cd
+   42  pwd
+   43  cd -
+   44  mkdir
+   45  mkdir --help
+   46  man mkdir
+   47  mkdir SENAC
+   48  ls -lh
+   49  mkdir senac
+   50  ls -lh
+   51  cd SENAC
+   52  pwd
+   53  cd /
+   54  cd /home/mateus/SENAC
+   55  cd ~/SENAC/
+   56  pwd
+   57  mkdir -v TAT PEN CAS
+   58  pwd
+   59  ls -lh
+   60  cd ~/SENAC/TAT
+   61  pwd
+   62  mkdir -v TEI TST
+   63  CD TEI/
+   64  cd TEI/
+   65  pwd
+   66  cd ..
+   67  cd TEI
+   68  cd ~/SENAC/TAT/TEI/
+   69  CD ../../PEN
+   70  CD ../../PEN/
+   71  cd ../../PEN/
+   72  mkdir -v TEI TST
+   73  cd TEI/
+   74  echo
+   75  echo SENAC Tatuapé
+   76  echo "SENAC Tatuapé"
+   77  echo "SENAC Tatuapé Técnico em Informática"
+   78  echo "SENAC Tatuapé Técnico em Informática" > teste.txt
+   79  ls
+   80  ls -lh
+   81  echo "Mateus de Oliveira" > teste01.exe
+   82  ls -lh
+   83  touch
+   84  echo > senac.txt
+   85  echo "Mateus de Oliveira" > teste01.txt
+   86  ls -lh
+   87  touch sesc.txt
+   88  ls -lh
+   89  touch sesc.txt
+   90  ls -lh
+   91  echo Tatuapé > senac.txt
+   92  ls -lh
+   93  echo Penha > senac.txt
+   94  ls -lh
+   95  pdw
+   96  pwd
+   97  gid
+   98  git
+   99  pwd
+  100  git
+  101  git clone https://github.com/mattesilva/senac-tat
+  102  ls 
+  103  ls -hs
+  104  cd senac-tat/
+  105  ls -lha
+  106  git config --global user.name "Mateus de Oliveira"
+  107  git config --global user.email mateus09.oliveira@gmail.com
+  108  git config --list
+  109  sudo init 0
+  110  git clone https://github.com/mattesilva/senac-tat
+  111  sudo apt update
+  112  sudo apt upgrade
+  113  sudo apt full-upgrade
+  114  sudo apt dist-upgrade
+  115  cd SENAC
+  116  CD /tei
+  117  CD /TEI
+  118  CD TAT/TEI
+  119  cd
+  120  cd TAT/TEI
+  121  touch senac.txt senai.txt sesc.txt
+  122  ls -lh
+  123  echo "Tatuapé" > senac.txt
+  124  echo "Guarulhos" > senai.txt 
+  125  echo "Santana" > sesc.txt
+  126  ls -lh
+  127  cat senai
+  128  cat senai.txt 
+  129  cat -n senai.txt 
+  130  echo "Vila Maria" > senai.txt
+  131  cat -n senai.txt 
+  132  echo "Itaquera" >> senai.txt
+  133  cat -n senai.txt 
+  134  echo "Bras" >> senai.txt
+  135  cat -n senai.txt 
+  136  tac senai.txt 
+  137  cat -n senai.txt 
+  138  cat -n senai.txt | tac
+  139  tail /etc/services 
+  140  head /etc/services 
+  141  cat -n /etc/services 
+  142  tail -n3 /etc/services 
+  143  tail -n3 /etc/services | cat -n 
+  144  cat -n | tail -n3 /etc/services
+  145  cat -n | tail /etc/services
+  146  cat -n /etc/services | tail -n3
+  147  cat -n /etc/services | tail
+  148  cat -n /etc/services | tail -n3
+  149  cat -n /etc/services | head -n3
+  150  cat -n100 /etc/services | tail -n200
+  151   
+  152  cat -n /etc/services | head -n100 | tail -n200
+  153  cat -n /etc/services | head -n100 | head -n200
+  154  cat -n /etc/services | tail -n100 | head -n200
+  155  head -n100 | tail -n200
+  156  head -n100
+  157  head -n1
+  158  head -n
+  159  head /etc/services -100
+  160  head /etc/services n-100
+  161  head /etc/services
+  162  cat -n /etc/services | tail -n200 | head n-101
+  163  cat -n /etc/services | head -n200 | tail-n101
+  164  cat -n /etc/services | head -n200 | tail -n101
+  165  cat -n /etc/services | head -n200 | tail -n101 | less
+  166  cat -n /etc/services | head -n200 | tail -n101 > vava.txt
+  167  ls -lh
+  168  cat -n vava.txt 
+  169  lass vava.txt 
+  170  less vava.txt 
+  171  ls -lh
+  172  cp vava.txt ramos.txt
+  173  ls -lh
+  174  cp -v ramos.txt senai.txt 
+  175  ls -lh
+  176  ls -lh ../
+  177  ls -lh ../../
+  178  cp vava.txt ramos.txt ../../PEN/
+  179  ls -lh ../../PEN/
+  180  mkdir -v PKB
+  181  ls -lh
+  182  mkdir -v BKP
+  183  xp -v *.txt BKP/
+  184  cp -v *.txt BKP/
+  185  mv -v vava.txt vaamonde.md
+  186  ls -lh
+  187  mv -v ramos.txt ../TST/leandro.md
+  188  ls -lh ../TST/
+  189  ls -lh
+  190  rm -v sesc.txt 
+  191  man
+  192  man rm
+  193  rm -v TEI/
+  194  man rm
+  195  rm -Rv TST/
+  196  cd /tat
+  197  cd /TAT
+  198  cd TAT/
+  199  cd ../
+  200  rm -Rv TST/
+  201  ls
+  202  sudo udate
+  203  sudo update
+  204  sudo apt update
+  205  sudo apt upgrade
+  206  mkdir MateusOliveira
+  207  ls
+  208  cd MateusOliveira/
+  209  mkdir -v SESC SENAI
+  210  ls -lh
+  211  cd SESC
+  212  mkdir -v BEL SAN ITA
+  213  LS -LH
+  214  ls -lh
+  215  cd BEL/
+  216  touch danca.txt
+  217  ls
+  218  echo "Danças Brasileiras" "Danças de Salão" > danca.txt
+  219  echo "Danças Brasileiras" "Danças de Salão" >> danca.txt
+  220  rv danca.txt
+  221  rm danca.txt
+  222  ls
+  223  touch danca.txt
+  224  ls
+  225  echo "Danças Brasileiras" "Danças de Salão" > danca.txt
+  226  echo "Danças Brasileiras" > danca.txt
+  227  echo "Danças de Salão" >> danca.txt
+  228  less danca.tzt
+  229  less danca.txt
+  230  cat danca.txt
+  231  cat -n danca.txt
+  232  cd SESC
+  233  cd ../
+  234  cd SAN
+  235  mkdir -v natacao.md
+  236  ls
+  237* rm natacao.md 
+  238  rm -Rm natacao.md
+  239  rm -Rv natacao.md
+  240  mkdir -v natacao.md 
+  241  ls
+  242  cd natacao.md/
+  243  touch natacao.md
+  244  ls
+  245  /cd ../
+  246  cd ../
+  247  cd ~
+  248  cd MateusOliveira/SESC/SAN/
+  249  LS
+  250  ls
+  251  touch -v natacao.md
+  252  touch natacao.md
+  253  ls
+  254  echo "Crawl" > natacao.md 
+  255  less
+  256  less natacao.md 
+  257  echo "Peito" >> natacao.md 
+  258  echo "Costas" >> natacao.md 
+  259  echo "Borboleta" >> natacao.md 
+  260  less natacao.md 
+  261  cd ../
+  262  cd ITA/
+  263  touch capoeira.sh
+  264  ls
+  265  echo "Meia Lua de Frente" > capoeira.sh 
+  266  echo "Meia Lua de Compasso" >> capoeira.sh 
+  267  echo "Pisão Rodado" >> capoeira.sh 
+  268  cd ../../
+  269  cd SENAI/
+  270  ls
+  271  mkdir -v BRA GUA TAT PJS
+  272  ls
+  273  cd BRA/
+  274  mkdir Tornearia Fresagem Soldagem
+  275  ls
+  276  cd Fresagem/
+  277  touch cal_nov_2024.txt
+  278  ls
+  279  mv cal_nov_2024.txt 
+  280  mv cal_nov_2024.txt cal_dez_2024.txt
+  281  ls
+  282  echo "Turma B: 01/12 até 31/12" cal_dez_2024.txt 
+  283  echo "Turma B: 01/12 até 31/12" > cal_dez_2024.txt 
+  284  cd ../
+  285  cd Tornearia/
+  286  touch cal_nov_2024.txt
+  287  echo "Turma A: 01/11 até 31/11" > cal_nov_2024.txt 
+  288  ls
+  289  less cal_nov_2024.txt 
+  290  cd ../
+  291  cd Soldagem/
+  292  touch cal_jan_2025.txt
+  293  ls
+  294  echo "Turma C: 01/01 até 31/01" > cal_jan_2025.txt 
+  295  cd ../../
+  296  cd GUA/
+  297  mkdir -v Eletricista
+  298  cd Eletricista/
+  299  touch cal_jan_2025.txt
+  300  echo "Turma A: 01/01 até 31/01
+  301  echo "Turma A: 01/01 até 31/01" > cal_jan_2025.txt 
+  302  ls
+  303  less cal_jan_2025.txt 
+  304  cd ../../
+  305  cd TAT/
+  306  cd ../
+  307  ls -lh
+  308  cd TAT/
+  309  mkdir Drywall
+  310  cd Drywall/
+  311  touch cal_nov_2024.md
+  312  ls
+  313  echo "Turma A: 01/11 até 30/11" > cal_nov_2024.md
+  314  cd ../../
+  315  cd PJS/
+  316  mkdir Empilhadeira
+  317  cd Empilhadeira/
+  318  touch cal_jan_2025.sh
+  319  echo "Turma A: 01/01 até 31/01" > cal_jan_2025.sh 
+  320  cd ../../../
+  321  cd ../
+  322  tree -h MateusOliveira/
+  323  sudo apt install tree
+  324  tree -h MateusOliveira/
+  325  mv SENAC/ MateusOliveira/
+  326  tree -h MateusOliveira/
+  327  history > comandos.txt
