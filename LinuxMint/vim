@@ -3,6 +3,18 @@ vim - arquivo de texto
 comandos vim
 
 shift + : = abrir linha de comando
+Para dividir a tela horizontalmente, use: split
+ou a forma abreviada: sp
+
+Para dividir a tela verticalmente, use: vsplit
+ou a forma abreviada: vsp
+
+Navegando entre as janelas
+Use Ctrl-w seguido da tecla de direção correspondente para mover entre as janelas:
+Ctrl-w h para a janela à esquerda
+Ctrl-w j para a janela abaixo
+Ctrl-w k para a janela acima
+Ctrl-w l para a janela à direita
 -----------------------------------------
 modos
 
