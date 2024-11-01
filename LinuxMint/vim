@@ -37,7 +37,7 @@ deletar tudo = dG
 desfazer = u
 refazer = ctrl r
 -----------------------------------------
-  diretorio temporario
+diretorio temporario
 
-  /tmp
-  vim /tmp/senai.html = cria um site
+/tmp
+vim /tmp/senai.html = cria um site
