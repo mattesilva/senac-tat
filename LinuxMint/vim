@@ -10,6 +10,7 @@ Para dividir a tela verticalmente, use: vsplit
 ou a forma abreviada: vsp
 
 Navegando entre as janelas
+
 Use Ctrl-w seguido da tecla de direção correspondente para mover entre as janelas:
 Ctrl-w h para a janela à esquerda
 Ctrl-w j para a janela abaixo
