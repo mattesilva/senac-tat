@@ -1,0 +1,43 @@
+vim - arquivo de texto
+
+comandos vim
+
+shift + : = abrir linha de comando
+-----------------------------------------
+modos
+
+primeiro modo = visualização
+
+Esc + Shift + : = Comando
+Insert = shift + I (texto)
+Insert = Substituir
+-----------------------------------------
+! = força saida
+sair = q
+sair Forçado = q!
+salvar arquivo = w (salva o arquivo ou cria um)
+salvar e sair = wq
+salvar e sair = x
+colar = ctrl + shift + v
+enew = cria um novo arquivo
+-----------------------------------------
+Explorar
+e = nome_arquivo (pode utilizar o tab)
+e. = listar os arquivos no diretório
+-----------------------------------------
+ir para o fim = $
+ir ao inicio = 0
+-----------------------------------------
+set number = mostra o número de linhas
+-----------------------------------------
+Não são comandos
+  
+deletar = dd
+deletar tudo = dG
+desfazer = u
+refazer = ctrl r
+-----------------------------------------
+  diretorio temporario
+
+  /tmp
+  vim /tmp/senai.html = cria um site
